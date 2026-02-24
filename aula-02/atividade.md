@@ -1,0 +1,53 @@
+# Atividade 1 e 2
+
+Escolham uma empresa e apresentem uma breve descrição organizacional, indicando seu segmento de atuação, porte, mercado em que opera, etc. Em seguida, pesquise em fontes confiáveis, como o site oficial da empresa, relatórios institucionais e apresentem sua missão, visão e valores.
+
+Com base nessas informações, pesquisem ou desenvolvam um plano inicial de Tecnologia da Informação, demonstrando como a TI se alinha ou poderia se alinhar à estratégia organizacional da empresa escolhida. O trabalho deve apresentar como as decisões de TI apoiam os processos internos, contribuem para a competitividade e fortalecem os objetivos estratégicos da organização.
+
+---
+
+## Estudo de caso Embraer S.A.
+
+A Embraer S.A. (Empresa Brasileira de Aeronáutica) constitui-se como uma das maiores fabricantes de aeronaves do mundo e a principal empresa aeroespacial brasileira, com atuação expressiva no desenvolvimento, produção e comercialização de jatos comerciais, executivos, agrícolas e aeronaves militares, além de sistemas de defesa e segurança. A organização foi fundada em 1969 como empresa estatal e privatizada em 1994, consolidando-se ao longo das últimas décadas como uma empresa de capital aberto, com ações negociadas na B3 sob os códigos EMBR3 e na NYSE como ERJ. Segundo informações disponibilizadas em seu portal institucional e relatórios anuais, a Embraer possui operações em diversos países, com unidades industriais no Brasil, Portugal, Estados Unidos e China, além de escritórios de vendas, serviços e suporte em todos os continentes. Trata-se de uma empresa de grande porte, com elevada participação no mercado global de aviação regional e executiva, sendo a terceira maior fabricante de jatos comerciais do mundo (EMBRAER, 2024).
+
+No contexto organizacional, a Embraer apresenta uma estrutura complexa e altamente especializada, baseada em inovação tecnológica, engenharia de ponta e rigorosos padrões de qualidade e segurança. A companhia atua em um mercado extremamente competitivo e regulado, caracterizado por ciclos econômicos longos, elevados investimentos em pesquisa e desenvolvimento, e crescente pressão por sustentabilidade ambiental e eficiência energética. Conforme descrito em seu site institucional, a empresa fundamenta sua atuação em valores claramente definidos: a missão de criar soluções inovadoras para a mobilidade de pessoas e bens, a visão de ser a empresa aeroespacial mais admirada e bem-sucedida do mundo, e valores que incluem excelência, integridade, respeito às pessoas, trabalho em equipe e compromisso com o cliente. Essa diretriz estratégica reflete não apenas uma ambição de liderança tecnológica, mas também um compromisso com desenvolvimento sustentável, responsabilidade social e formação de capital humano altamente qualificado (EMBRAER, 2024).
+
+A cultura organizacional da Embraer é amplamente pautada pela inovação, excelência técnica e valorização do conhecimento. A empresa enfatiza a busca constante por soluções tecnológicas avançadas, a colaboração entre equipes multidisciplinares e o desenvolvimento contínuo de competências. Em sua visão de negócios, destaca-se a importância de crescimento sustentável, diversificação de portfólio, expansão internacional e fortalecimento de parcerias estratégicas. Tais princípios são reiterados em relatórios de sustentabilidade e comunicados ao mercado, evidenciando a integração entre estratégia, inovação e práticas de governança corporativa (EMBRAER, 2024).
+
+A partir dessa análise organizacional, é possível desenvolver um plano inicial de Tecnologia da Informação alinhado à estratégia corporativa da Embraer. Considerando seu posicionamento como líder em inovação aeroespacial e sua busca por excelência operacional, a TI deve ser compreendida como um elemento estratégico fundamental, transcendendo o papel de suporte operacional. Em empresas de alta tecnologia com operações globalmente distribuídas e processos de engenharia complexos, a integração sistêmica e a gestão do conhecimento são fatores determinantes para o desempenho organizacional. Nesse sentido, a adoção de sistemas integrados de gestão empresarial, como plataformas de Enterprise Resource Planning especializadas para indústria aeroespacial, é essencial para conectar áreas como engenharia, manufatura, cadeia de suprimentos, manutenção, certificação, finanças e recursos humanos.
+
+A integração desses sistemas permite maior rastreabilidade de componentes críticos, conformidade com regulamentações aeronáuticas internacionais, padronização de processos de qualidade e melhoria no controle de custos de programas aeronáuticos. Em um setor no qual a certificação de cada componente é obrigatória e o ciclo de vida de produtos pode ultrapassar 30 anos, o acesso a informações técnicas confiáveis e auditáveis torna-se diferencial competitivo e requisito regulatório. Assim, a TI contribui diretamente para a conformidade regulatória, rastreabilidade de configurações de aeronaves e suporte ao ciclo de vida completo dos produtos.
+
+Outro eixo fundamental do plano de TI refere-se ao Product Lifecycle Management e à engenharia digital. A utilização de ferramentas de PLM, Computer-Aided Design, Computer-Aided Engineering e simulação computacional possibilita à Embraer acelerar o desenvolvimento de novos produtos, reduzir custos de prototipagem física e otimizar o desempenho aerodinâmico e estrutural de aeronaves. Por meio de gêmeos digitais e simulações avançadas, a empresa pode testar virtualmente milhares de configurações, antecipar problemas de projeto e validar soluções antes da construção física. Essa abordagem orientada à engenharia digital fortalece a competitividade da organização, reduz time-to-market e amplia sua capacidade de inovação tecnológica.
+
+A transformação digital também pode ser ampliada por meio da adoção de tecnologias emergentes, como Internet das Coisas, big data analytics, inteligência artificial e computação em nuvem. A IoT aplicada a aeronaves permite monitoramento em tempo real de sistemas críticos, manutenção preditiva e otimização de operações de voo. A análise de grandes volumes de dados de telemetria possibilita identificar padrões de falhas, melhorar a confiabilidade de componentes e reduzir custos de manutenção para operadores. A inteligência artificial pode ser empregada em otimização de rotas de produção, inspeção automatizada de qualidade e análise de mercado. Já a computação em nuvem contribui para colaboração global entre equipes de engenharia, escalabilidade de recursos computacionais para simulações complexas e maior flexibilidade operacional.
+
+No âmbito da cadeia de suprimentos aeroespacial, a TI desempenha papel decisivo na coordenação com fornecedores globais de componentes críticos, sistemas aviônicos e materiais especiais. Sistemas integrados de Supply Chain Management permitem rastreamento de peças certificadas, gestão de estoques de materiais de longo lead time e coordenação just-in-sequence na linha de montagem. Em uma indústria onde um único componente não conforme pode comprometer a certificação de uma aeronave inteira, a gestão rigorosa da cadeia de suprimentos é fator crítico. Dessa forma, investimentos em tecnologia impactam diretamente na qualidade, pontualidade de entregas e competitividade de custos.
+
+Ademais, a área de Tecnologia da Informação deve apoiar estratégias de serviços pós-venda e suporte ao cliente. A implementação de sistemas de Customer Support, portais de serviços técnicos e plataformas de treinamento digital possibilita melhor atendimento a operadores de aeronaves, disponibilização de manuais técnicos atualizados, gestão de campanhas de serviço e suporte remoto. A integração entre dados de operação de aeronaves e sistemas internos fortalece a capacidade de suporte proativo, amplia a satisfação dos clientes e gera receitas recorrentes de serviços.
+
+A cibersegurança e a proteção de propriedade intelectual também devem compor o plano estratégico de TI. Considerando que a Embraer desenvolve tecnologias sensíveis, projetos de defesa e inovações patenteáveis, é imprescindível a adoção de políticas robustas de segurança da informação, controle de acessos, criptografia de dados e conformidade com regulamentações de exportação de tecnologia. A proteção de informações técnicas não apenas evita espionagem industrial, mas também preserva vantagens competitivas, atende requisitos contratuais governamentais e mantém a confiança de parceiros estratégicos.
+
+Adicionalmente, a TI deve suportar iniciativas de sustentabilidade e eficiência energética, alinhadas aos compromissos ambientais da indústria aeronáutica. Ferramentas de simulação podem otimizar o consumo de combustível de aeronaves, sistemas de gestão energética podem reduzir o impacto ambiental das operações industriais, e plataformas de análise de dados podem monitorar indicadores de sustentabilidade ao longo de toda a cadeia de valor.
+
+Portanto, observa-se que a Tecnologia da Informação, quando alinhada à estratégia organizacional da Embraer, contribui de forma decisiva para o fortalecimento de seus objetivos estratégicos. As decisões de TI apoiam os processos internos por meio da integração sistêmica, promovem excelência em engenharia, subsidiam inovação baseada em dados e ampliam a capacidade de competição global. Em um mercado altamente tecnológico, regulado e competitivo, a consolidação de uma estratégia digital estruturada torna-se elemento indispensável para manutenção da liderança tecnológica e sustentabilidade no longo prazo. Assim, a TI deve ser compreendida como vetor estratégico de inovação, competitividade e geração contínua de valor para a organização, seus clientes e a sociedade.
+
+---
+
+## Referências
+
+EMBRAER. Sobre a Embraer. Disponível em: https://embraer.com/br/pt/sobre-embraer. Acesso em: 19 fev. 2026.
+
+EMBRAER. Missão, Visão e Valores. Disponível em: https://embraer.com/br/pt/sobre-embraer/missao-visao-valores. Acesso em: 19 fev. 2026.
+
+EMBRAER. Relatório Anual 2023. Disponível em: https://ri.embraer.com.br/. Acesso em: 19 fev. 2026.
+
+EMBRAER. Relatório de Sustentabilidade 2023. Disponível em: https://embraer.com/br/pt/sustentabilidade. Acesso em: 19 fev. 2026.
+
+EMBRAER. Relações com Investidores. Disponível em: https://ri.embraer.com.br/. Acesso em: 19 fev. 2026.
+
+INVESTIDOR10. EMBR3 – Embraer S.A. Disponível em: https://investidor10.com.br/acoes/embr3/. Acesso em: 19 fev. 2026.
+
+B3. Embraer S.A. Disponível em: https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas-listadas.htm. Acesso em: 19 fev. 2026.
+
+VALOR ECONÔMICO. Embraer: história e estratégia. Disponível em: https://valor.globo.com/empresas/embraer/. Acesso em: 19 fev. 2026.
